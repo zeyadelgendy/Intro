@@ -1,1 +1,3 @@
-# Projects
+- 4th year Software Engineering student at Carleton University
+- Previous Intern at Johari GmbH in Turkheim, Germany. 
+- Fluent in major languages like Java, C, C++, Python, Javascript.
