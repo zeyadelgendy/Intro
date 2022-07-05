@@ -1,4 +1,4 @@
 - 4th year Software Engineering student at Carleton University
 - Previous Intern at Johari GmbH in Turkheim, Germany. 
-- Fluent in major languages like Java, C, C++, Python, Javascript.
+- Junior Front-End developer at Itranks, Egypt.
 - Projects available in private repositories, please email me for displaying.
